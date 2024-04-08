@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Oshadha Lakruwan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakruwanpgo&label=Profile%20views&color=0e75b6&style=flat" alt="lakruwanpgo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakruwanpgo" alt="lakruwanpgo" /></a> </p>
-
 - 🔭 I’m currently working on **2nd year 2nd semester ITP project**
 
 - 🌱 I’m currently learning **Sri Lanka Institute of Information Technology**
